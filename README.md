@@ -1,5 +1,5 @@
 # archive-search-engine
-archive-search-engine  .exe file  - search archive org - makes instant html file for search query
+archive-search-engine  .exe file  - search archive org - makes instant html files for search query
 
 
 # archive-search.exe
@@ -33,4 +33,4 @@ Built for longevity and local ownership: no servers, no accounts, no tracking, a
 
 ## Author
 
-Built by **Mojo** (`Mulc1b3R`)
+Built by **Mojo** (`Mulc1b3R`)   MADE IN YORKSHIRE
